@@ -1,0 +1,126 @@
+2025-04-13 10:27:20,847 - INFO - Inserted 1 into LinkedList
+2025-04-13 10:27:20,863 - INFO - Inserted 1
+2025-04-13 10:27:25,246 - INFO - Inserted 2 into LinkedList
+2025-04-13 10:27:25,246 - INFO - Inserted 2
+2025-04-13 10:27:29,071 - INFO - Inserted 3 into LinkedList
+2025-04-13 10:27:29,071 - INFO - Inserted 3
+2025-04-13 10:27:32,595 - INFO - Inserted 4 into LinkedList
+2025-04-13 10:27:32,595 - INFO - Inserted 4
+2025-04-13 10:27:33,829 - INFO - Displayed LinkedList
+2025-04-13 10:30:22,131 - INFO - Inserted 1 into LinkedList
+2025-04-13 10:30:22,131 - INFO - Inserted 1
+2025-04-13 10:30:33,288 - INFO - Inserted 2 into LinkedList
+2025-04-13 10:30:33,288 - INFO - Inserted 2
+2025-04-13 10:30:37,139 - INFO - Inserted 3 into LinkedList
+2025-04-13 10:30:37,139 - INFO - Inserted 3
+2025-04-13 10:30:38,690 - INFO - Displayed Linked List
+2025-04-13 10:33:15,854 - INFO - Inserted 234 into LinkedList
+2025-04-13 10:33:15,854 - INFO - Inserted 234
+2025-04-13 10:33:22,570 - INFO - Inserted 3 into LinkedList
+2025-04-13 10:33:22,570 - INFO - Inserted 3
+2025-04-13 10:33:26,510 - INFO - Inserted 6 into LinkedList
+2025-04-13 10:33:26,510 - INFO - Inserted 6
+2025-04-13 10:33:29,787 - INFO - Displayed Binary Tree
+2025-04-13 10:33:31,977 - WARNING - Corrupted first node in LinkedList
+2025-04-13 10:33:35,063 - INFO - Displayed Binary Tree
+2025-04-13 10:33:37,907 - WARNING - Pointer broken in LinkedList
+2025-04-13 10:33:39,812 - INFO - Displayed Binary Tree
+2025-04-13 10:33:42,681 - INFO - Healed LinkedList using backup
+2025-04-13 10:33:45,542 - INFO - Displayed Binary Tree
+2025-04-13 10:37:53,710 - INFO - Inserted 1 into LinkedList
+2025-04-13 10:37:53,710 - INFO - Inserted 1
+2025-04-13 10:37:57,786 - INFO - Inserted 2 into LinkedList
+2025-04-13 10:37:57,786 - INFO - Inserted 2
+2025-04-13 10:38:01,228 - INFO - Inserted 3 into LinkedList
+2025-04-13 10:38:01,228 - INFO - Inserted 3
+2025-04-13 10:38:05,052 - INFO - Inserted 4 into LinkedList
+2025-04-13 10:38:05,052 - INFO - Inserted 4
+2025-04-13 10:38:06,740 - INFO - Displayed Hash Table
+2025-04-13 10:38:13,414 - WARNING - Corrupted first node in LinkedList
+2025-04-13 10:38:15,945 - INFO - Displayed Hash Table
+2025-04-13 10:38:20,438 - WARNING - Corrupted first node in LinkedList
+2025-04-13 10:38:22,670 - INFO - Displayed Hash Table
+2025-04-13 10:38:25,621 - WARNING - Pointer broken in LinkedList
+2025-04-13 10:38:28,171 - INFO - Displayed Hash Table
+2025-04-13 10:38:33,868 - INFO - Displayed Hash Table
+2025-04-13 10:38:34,562 - INFO - Displayed Hash Table
+2025-04-13 10:38:36,493 - INFO - Healed LinkedList using backup
+2025-04-13 10:38:38,840 - INFO - Displayed Hash Table
+2025-04-13 10:45:25,987 - INFO - Inserted 6 into LinkedList
+2025-04-13 10:45:26,003 - INFO - Inserted 6
+2025-04-13 10:45:29,580 - INFO - Inserted 6 into LinkedList
+2025-04-13 10:45:29,580 - INFO - Inserted 6
+2025-04-13 10:45:30,367 - INFO - Inserted 6 into LinkedList
+2025-04-13 10:45:30,367 - INFO - Inserted 6
+2025-04-13 10:45:30,567 - INFO - Inserted 6 into LinkedList
+2025-04-13 10:45:30,567 - INFO - Inserted 6
+2025-04-13 10:45:30,783 - INFO - Inserted 6 into LinkedList
+2025-04-13 10:45:30,783 - INFO - Inserted 6
+2025-04-13 10:45:30,984 - INFO - Inserted 6 into LinkedList
+2025-04-13 10:45:30,984 - INFO - Inserted 6
+2025-04-13 10:45:32,202 - INFO - Displayed Binary Tree
+2025-04-13 10:45:34,677 - WARNING - Corrupted first node in LinkedList
+2025-04-13 10:45:36,543 - INFO - Displayed Binary Tree
+2025-04-13 10:45:38,965 - WARNING - Pointer broken in LinkedList
+2025-04-13 10:45:40,791 - INFO - Displayed Binary Tree
+2025-04-13 10:45:44,099 - INFO - Healed LinkedList using backup
+2025-04-13 10:45:51,380 - INFO - Displayed Binary Tree
+2025-04-13 11:02:25,842 - INFO - Inserted 2 into LinkedList
+2025-04-13 11:02:25,842 - INFO - Inserted 2
+2025-04-13 11:02:30,557 - INFO - Inserted 3 into LinkedList
+2025-04-13 11:02:30,557 - INFO - Inserted 3
+2025-04-13 11:02:32,509 - INFO - Displayed Binary Tree
+2025-04-13 11:02:40,675 - INFO - Inserted 3 into LinkedList
+2025-04-13 11:02:40,675 - INFO - Inserted 3
+2025-04-13 11:02:41,941 - INFO - Displayed Binary Tree
+2025-04-13 11:02:45,191 - WARNING - Corrupted first node in LinkedList
+2025-04-13 11:02:47,684 - INFO - Displayed Binary Tree
+2025-04-13 11:02:49,537 - WARNING - Pointer broken in LinkedList
+2025-04-13 11:02:51,914 - INFO - Displayed Binary Tree
+2025-04-13 11:02:57,132 - INFO - Displayed Binary Tree
+2025-04-13 11:02:59,454 - INFO - Healed LinkedList using backup
+2025-04-13 11:03:00,991 - INFO - Displayed Binary Tree
+2025-04-13 11:03:11,108 - INFO - Displayed Hash Table
+2025-04-13 11:07:46,821 - INFO - Inserted 6 into LinkedList
+2025-04-13 11:07:46,821 - INFO - Inserted 6
+2025-04-13 11:21:29,470 - INFO - Inserted 1 into LinkedList
+2025-04-13 11:21:29,470 - INFO - Inserted 1
+2025-04-13 11:21:32,515 - INFO - Inserted 2 into LinkedList
+2025-04-13 11:21:32,515 - INFO - Inserted 2
+2025-04-13 11:21:36,526 - INFO - Inserted 3 into LinkedList
+2025-04-13 11:21:36,526 - INFO - Inserted 3
+2025-04-13 11:21:37,889 - INFO - Displayed Linked List
+2025-04-13 11:21:41,786 - WARNING - Corrupted first node in LinkedList
+2025-04-13 11:21:43,348 - INFO - Displayed Linked List
+2025-04-13 11:21:45,496 - WARNING - Pointer broken in LinkedList
+2025-04-13 11:21:46,658 - INFO - Displayed Linked List
+2025-04-13 11:21:48,121 - INFO - Healed LinkedList using backup
+2025-04-13 11:21:49,853 - INFO - Displayed Linked List
+2025-04-13 11:36:50,275 - INFO - Inserted 1 into LinkedList
+2025-04-13 11:36:50,276 - INFO - Inserted 1
+2025-04-13 11:36:53,071 - INFO - Inserted 2 into LinkedList
+2025-04-13 11:36:53,072 - INFO - Inserted 2
+2025-04-13 11:36:55,849 - INFO - Inserted 3 into LinkedList
+2025-04-13 11:36:55,849 - INFO - Inserted 3
+2025-04-13 11:37:02,091 - INFO - Displayed Linked List
+2025-04-13 11:37:04,737 - WARNING - Corrupted first node in LinkedList
+2025-04-13 11:37:06,711 - WARNING - Pointer broken in LinkedList
+2025-04-13 11:37:09,207 - INFO - Displayed Linked List
+2025-04-13 11:37:11,772 - INFO - Healed LinkedList using backup
+2025-04-13 11:37:13,295 - INFO - Displayed Linked List
+2025-04-13 11:38:49,624 - INFO - Inserted 2 into LinkedList
+2025-04-13 11:38:49,624 - INFO - Inserted 2
+2025-04-13 11:38:51,731 - INFO - Inserted 3 into LinkedList
+2025-04-13 11:38:51,731 - INFO - Inserted 3
+2025-04-13 11:38:52,834 - INFO - Inserted 4 into LinkedList
+2025-04-13 11:38:52,835 - INFO - Inserted 4
+2025-04-13 11:38:53,718 - INFO - Inserted 5 into LinkedList
+2025-04-13 11:38:53,719 - INFO - Inserted 5
+2025-04-13 11:38:55,314 - INFO - Inserted 7 into LinkedList
+2025-04-13 11:38:55,315 - INFO - Inserted 7
+2025-04-13 11:38:56,806 - INFO - Displayed Binary Tree
+2025-04-13 11:39:00,694 - WARNING - Corrupted first node in LinkedList
+2025-04-13 11:39:02,728 - INFO - Displayed Binary Tree
+2025-04-13 11:39:05,564 - WARNING - Pointer broken in LinkedList
+2025-04-13 11:39:07,076 - INFO - Displayed Binary Tree
+2025-04-13 11:39:08,780 - INFO - Healed LinkedList using backup
